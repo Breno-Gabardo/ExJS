@@ -1,0 +1,11 @@
+.message {
+    margin-top: 10px;
+    color: green;
+    display: none;
+}
+
+.error-message {
+    margin-top: 10px;
+    color: red;
+    display: none;
+}
